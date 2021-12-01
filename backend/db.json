@@ -1,0 +1,46 @@
+{
+  "products":[
+      {
+      "id":1,
+      "name":"Alice",
+      "e-mail": "example@rxample.com",
+      "telephone":"88888888",
+      "senha":"admin123"
+      
+  },
+      {
+      "id":2,
+      "name":"Lucas",
+      "e-mail": "example@rxample.com",
+      "telephone":"777777777",
+      "senha":"admin1234"
+      
+  },
+      {
+      "id":3,
+      "name":"Mariane",
+      "e-mail": "example@rxample.com",
+      "telephone":"666666666",
+      "senha":"admin1235"
+      
+  },
+      {
+      "id":4,
+      "name":"Camila",
+      "e-mail": "example@rxample.com",
+      "telephone":"555555555",
+      "senha":"admin1236"
+      
+  },
+      {
+      "id":5,
+      "name":"Benedita",
+      "e-mail": "example@rxample.com",
+      "telephone":"444444444",
+      "senha":"admin1237"
+      
+  },
+
+]
+
+}
